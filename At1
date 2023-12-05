@@ -1,0 +1,26 @@
+
+print("ola");
+
+a = 8;
+b = 2;
+
+soma1 = y + x;
+subtracao1 = y - x;
+multiplicacao1 = y * x;
+
+print("Soma =", soma1);
+print("Subtração =", subtracao1);
+print("Multiplicação =", multiplicacao1);
+
+# Exemplo add
+c = -35
+d = 16
+
+soma2 = c + d;
+subtracao2 = c - d;
+multiplicacao2 = c * d;
+
+print(soma2);
+print("Soma =", soma2);
+print("Subtração =", subtracao2);
+print("Multiplicação =", multiplicacao2);
