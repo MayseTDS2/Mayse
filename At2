@@ -1,0 +1,21 @@
+At2
+
+int a, b, soma;
+
+printf("Digite um numero inteiro: ");
+
+scanf("%d", &a); //recebe um inteiro e armazena na variável a
+
+printf("Digite um numero inteiro: ");
+
+scanf("%d", &b); //recebe um inteiro e armazena na variável b
+
+soma = a + b;
+
+printf("O valor da soma = %d\n", soma); //Mostra o resultado
+
+system ("pause");
+
+return(0);
+
+}
